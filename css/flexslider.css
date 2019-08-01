@@ -122,7 +122,7 @@ html[xmlns] .flexslider .slides {
   height: 36px;
   margin: -20px 0 0;
   position: absolute;
-  top: 50%;
+  top: 40%;
   z-index: 10;
   overflow: hidden;
   opacity: 0;
@@ -137,7 +137,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav a:before {
   font-family: "flexslider-icon";
-  font-size: 1000px;
+  font-size: 500px;
   display: inline-block;
   content: '\f001';
   color: rgba(0, 0, 0, 0.8);
